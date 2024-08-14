@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: REVOLUTIONIZING WELLNESS WITH ACCESSIBLE TECHNOLOGY
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Our innovative solutions improve posture, aid recovery, and enhance daily routines. Designed for real people, our technology brings effective well-being within everyone’s reach!
   action: # action button is optional
     label: Find Out More
     url: '#about'
