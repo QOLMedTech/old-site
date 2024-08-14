@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: REVOLUTIONIZING WELLNESS WITH ACCESSIBLE TECHNOLOGY
+  title: BRINGING ADVANCED CARE TO EVERYONE, EVERYWHERE
   text: >
     Our innovative solutions improve posture, aid recovery, and enhance daily routines. Designed for real people, our technology brings effective well-being within everyone’s reach!
   action: # action button is optional
