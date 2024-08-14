@@ -3,7 +3,7 @@ layout: home
 header:
   title: BRINGING ADVANCED CARE TO EVERYONE, EVERYWHERE
   text: >
-    Our innovative solutions improve posture, aid recovery, and enhance daily routines. Designed for real people, our technology brings effective well-being within everyone’s reach!
+    Our technology empowers people in all locations to improve posture, support recovery, and live healthier lives. We’re dedicated to making high-quality care accessible, no matter where you are!
   action: # action button is optional
     label: Find Out More
     url: '#about'
