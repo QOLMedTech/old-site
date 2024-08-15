@@ -97,6 +97,7 @@ sections:
         url: '#'
       - title: Peter Stapleton
         text: Founder & Director of Product Development
+        text: difgiiiefnslsdvcklvkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
         image: assets/img/members/person2.jpg
         url: '#'
       - title: Nathan Wu
