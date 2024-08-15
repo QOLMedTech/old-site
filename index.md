@@ -91,24 +91,24 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
+      - title: Pachari Detpunyawat
+        text: Founder & CEO
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
+      - title: Peter Stapleton
+        text: Founder & Director of Product Development
         image: assets/img/members/person2.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
+      - title: Nathan Wu
+        text: Software Engineer
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
+      - title: Dr. Larry Katz
+        text: Clinical Advisor, External (Ph.D.)
         image: assets/img/members/person5.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
+      - title: Dr. Gwyneth de Vries
+        text: Orthopedic Specialist & Medical Advisor, External (MD FRCSC)
         image: assets/img/members/person6.jpg
         url: '#'
       - title: Ella P. Walter
