@@ -3,7 +3,7 @@ layout: home
 header:
   title: Revolutionizing Recovery, Compliance, and Performance with Wearable Technology
   text: At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively. 
-  
+
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -23,27 +23,27 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Making Healthcare Accessible and Impactful
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Shorten Recovery Time
+        text: Accelerate healing with precise, data-driven guidance.
         icon: bi-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: Enhance Exercise Compliance
+        text: Ensure patients follow their exercise regimens correctly with real-time cues and reminders.
         icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Optimize Movement and Performance
+        text: Get detailed insights into your movements to improve form, prevent injury, and maximize results.
         icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: Cost-Effective Solutions
+        text: Reduce healthcare costs by minimizing the need for in-person visits and leveraging technology that supports ongoing care and monitoring.
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: bi-emoji-sunglasses-fill
+      # - title: Other 1
+      #   text: Some not-so long text here.
+      #   icon: bi-emoji-heart-eyes
+      # - title: Other 2
+      #   text: Some not-so long text here.
+      #   icon: bi-emoji-sunglasses-fill 
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
