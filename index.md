@@ -4,7 +4,6 @@ header:
   title: Revolutionizing Recovery, Compliance, and Performance with Wearable Technology
   text: >
 At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively.
-
 Track. Guide. Recover. Empower. Whether you’re a patient on the path to recovery, a caregiver supporting an older adult, a physiotherapist ensuring adherence to exercise regimens, an athlete striving for peak performance, or someone in a rural or remote area seeking accessible care, QOL MedTech’s solutions seamlessly integrate into your life. We bring advanced care, effective recovery, and improved quality of life within reach for everyone, everywhere.
 
   action: # action button is optional
@@ -17,14 +16,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: From urban centers to rural communities, QOL MedTech ensures that advanced, personalized care is accessible, effective, and designed with your success in mind. And because we believe in giving back, 10% of our profits are donated to charity, extending our commitment to improving lives beyond technology.
 
-With real-time monitoring, guided exercise programs, and personalized feedback, QOL MedTech helps you:
-
-Shorten Recovery Time: Accelerate healing with precise, data-driven guidance.
-Enhance Exercise Compliance: Ensure patients follow their exercise regimens correctly with real-time cues and reminders.
-Optimize Movement and Performance: Get detailed insights into your movements to improve form, prevent injury, and maximize results.
-Cost-Effective Solutions: Reduce healthcare costs by minimizing the need for in-person visits and leveraging technology that supports ongoing care and monitoring.
 
     actions:
       - title: Get Started!
