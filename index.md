@@ -1,9 +1,9 @@
 ---
 layout: home
 header:
-  title: BRINGING ADVANCED CARE TO EVERYONE, EVERYWHERE
+  title: Revolutionizing Recovery, Compliance, and Performance with Wearable Technology
   text: >
-    Our technology empowers people in all locations to improve posture, support recovery, and live healthier lives. We’re dedicated to making high-quality care accessible, no matter where you are!
+At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively.
   action: # action button is optional
     label: Find Out More
     url: '#about'
