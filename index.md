@@ -1,12 +1,9 @@
 ---
 layout: home
 header:
-  title: Revolutionizing Recovery, Compliance, and Performance with Wearable Technology
+  title: BRINGING ADVANCED CARE TO EVERYONE, EVERYWHERE
   text: >
-At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively.
-
-Track. Guide. Recover. Empower. Whether you’re a patient on the path to recovery, a caregiver supporting an older adult, a physiotherapist ensuring adherence to exercise regimens, an athlete striving for peak performance, or someone in a rural or remote area seeking accessible care, QOL MedTech’s solutions seamlessly integrate into your life. We bring advanced care, effective recovery, and improved quality of life within reach for everyone, everywhere.
-
+    Our technology empowers people in all locations to improve posture, support recovery, and live healthier lives. We’re dedicated to making high-quality care accessible, no matter where you are!
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -17,15 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: From urban centers to rural communities, QOL MedTech ensures that advanced, personalized care is accessible, effective, and designed with your success in mind. And because we believe in giving back, 10% of our profits are donated to charity, extending our commitment to improving lives beyond technology.
-
-With real-time monitoring, guided exercise programs, and personalized feedback, QOL MedTech helps you:
-
-Shorten Recovery Time: Accelerate healing with precise, data-driven guidance.
-Enhance Exercise Compliance: Ensure patients follow their exercise regimens correctly with real-time cues and reminders.
-Optimize Movement and Performance: Get detailed insights into your movements to improve form, prevent injury, and maximize results.
-Cost-Effective Solutions: Reduce healthcare costs by minimizing the need for in-person visits and leveraging technology that supports ongoing care and monitoring.
-
+    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -102,30 +91,30 @@ Cost-Effective Solutions: Reduce healthcare costs by minimizing the need for in-
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Pachari Detpunyawat 
+      - title: Pachari Detpunyawat
         text: Founder & CEO
-        Pachari is a visionary leader with over a decade of experience in engineering and technology commercialization. Her journey began with a strong foundation in Mechatronics Engineering, which fueled her passion for wearable technology and software development. As the driving force behind QOL MedTech, Pachari is dedicated to creating innovative health solutions that are accessible to all, leading with a blend of technical expertise and a deep commitment to improving quality of life.
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Peter Stapleton 
-        text: Founder & Director of Technology Development
-        With over 30 years of experience in R&D and technology management, Peter is the steady hand guiding QOL MedTech’s technological innovations. His extensive background in bringing complex technologies to market, coupled with his expertise in regulatory compliance, ensures that QOL MedTech’s solutions are not only cutting-edge but also reliable and safe. Peter is passionate about making a tangible impact on people's lives through technology.
+      - title: Peter Stapleton
+        text: Founder & Director of Product Development
+        text: difgiiiefnslsdvcklvkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
         image: assets/img/members/person2.jpg
         url: '#'
       - title: Nathan Wu
-        text: Lead Software Engineer
-        Nathan is a talented software engineer with a knack for creating user-friendly applications that make a difference. Specializing in real-time data processing and wearable technology, Nathan is the architect behind the intuitive designs that define QOL MedTech’s products. His dedication to making technology accessible and effective for all users drives his work, ensuring that our solutions are as practical as they are innovative.
+        text: Software Engineer
         image: assets/img/members/person3.jpg
         url: '#'
       - title: Dr. Larry Katz
-        text: Clinical Advisor, External
-        Dr. Larry Katz is a recognized expert in educational psychology and interactive multimedia, serving as a Clinical Advisor at QOL MedTech. As a Professor and Director at the University of Calgary's Sport Technology Research Laboratory, Dr. Katz specializes in sport technology and virtual rehabilitation. His pioneering work in educational technology and multimedia development enhances QOL MedTech's approach to creating innovative health solutions, ensuring our products are informed by the latest research and practical application.
+        text: Clinical Advisor, External (Ph.D.)
         image: assets/img/members/person5.jpg
         url: '#'
       - title: Dr. Gwyneth de Vries
-        text: Orthopedic Specialist & Medical Advisor, External
-        Dr. Gwyneth de Vries, a seasoned Orthopedic Specialist and Medical Advisor, brings over two decades of experience in orthopedic medicine to QOL MedTech. Her research contributions, particularly at the University of Calgary's Human Performance Laboratory, provide critical medical insights that guide our product development. Dr. de Vries’s expertise in orthopedic care ensures that our health solutions are designed to meet the highest standards of safety and effectiveness.
+        text: Orthopedic Specialist & Medical Advisor, External (MD FRCSC)
         image: assets/img/members/person6.jpg
+        url: '#'
+      - title: Ella P. Walter
+        text: PR.
+        image: assets/img/members/person7.jpg
         url: '#'
 
   - type: timeline.html
