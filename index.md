@@ -2,8 +2,7 @@
 layout: home
 header:
   title: Revolutionizing Recovery, Compliance, and Performance with Wearable Technology
-  text: >
-At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively.
+  text: At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively.
   action: # action button is optional
     label: Find Out More
     url: '#about'
