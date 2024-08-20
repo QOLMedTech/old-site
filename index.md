@@ -44,7 +44,7 @@ sections:
       # - title: Other 2
       #   text: Some not-so long text here.
       #   icon: bi-emoji-sunglasses-fill 
-      text:  And because we believe in giving back, 10% of our profits are donated to charity, extending our commitment to improving lives beyond technology.
+      #text:  And because we believe in giving back, 10% of our profits are donated to charity, extending our commitment to improving lives beyond technology.
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
