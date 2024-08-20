@@ -97,8 +97,11 @@ sections:
     members:
       - title: FOUNDERS OF QOL MEDTECH
         text: "Peter and I noticed something troubling—people struggling with joint pain and mobility issues, whether they were athletes, older adults, or just individuals trying to stay active, had few practical solutions. My father’s knee pain made every step difficult, and Peter’s foot injury threw off his posture, leading to even more problems. We knew there had to be a better way.
+
 What if you could have a wearable solution that didn’t just track your movement but actually guided you to recover faster, move better, and prevent injuries? What if it was designed for everyone—from athletes to older adults, and even for those in remote areas who can’t easily access healthcare?
+
 That’s why we created QOL MedTech. We spent countless hours understanding the needs of people just like you—physiotherapists, caregivers, athletes, and those looking to maintain their health. Our wearable technology not only monitors your movements but provides real-time feedback and guidance tailored to your specific needs.
+
 Ready to improve your health, optimize your performance, or support your patients more effectively? QOL MedTech is here to empower you on that journey."
 
         image: assets/img/members/person1.jpg
