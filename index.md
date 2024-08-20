@@ -12,7 +12,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
+    #background_style: bg-primary
     title: Track. Guide. Recover. Empower.
     text:  Whether you’re a patient on the path to recovery, a caregiver supporting an older adult, a physiotherapist ensuring adherence to exercise regimens, an athlete striving for peak performance, or someone in a rural or remote area seeking accessible care, QOL MedTech’s solutions seamlessly integrate into your life. We bring advanced care, effective recovery, and improved quality of life within reach for everyone, everywhere. 
 
@@ -93,7 +93,7 @@ sections:
   - type: members.html
     section_id: members
     title: Pachari Detpunyawat and Peter Stapleton
-    background_style: bg-info text-white
+    #background_style: bg-info text-white
     members:
       - title: FOUNDERS OF QOL MEDTECH
         text: "Peter and I noticed something troubling—people struggling with joint pain and mobility issues, whether they were athletes, older adults, or just individuals trying to stay active, had few practical solutions. My father’s knee pain made every step difficult, and Peter’s foot injury threw off his posture, leading to even more problems. We knew there had to be a better way.
