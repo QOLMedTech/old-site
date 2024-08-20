@@ -2,7 +2,7 @@
   <div class="container px-4 px-lg-5">
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider border border-primary border-2">
-    <div class="text-black-50 mb-4 ">{{ section.text | markdownify }}</div>
+    <div class="text-black-50 mb-4 ">{{ section1.text | markdownify }}</div>
     <!-- <p class="text-muted mb-0">{{ page.header.text }}</p> -->
     <div class="row gx-4 gx-lg-5 justify-content-center">
       <!-- {#% assign cols = section.size | at_most: 4 %#} -->
@@ -29,6 +29,6 @@
       </div>
       {% endfor %}
     </div>
-  <!-- <p class="text-muted mb-0">{{ section.text }}</p> -->
+    <div class="text-black-50 mb-4 ">{{ section2.text | markdownify }}</div>
   </div>
 </section>
