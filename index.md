@@ -14,7 +14,8 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Track. Guide. Recover. Empower.
-    text:  Whether you’re a patient on the path to recovery, a caregiver supporting an older adult, a physiotherapist ensuring adherence to exercise regimens, an athlete striving for peak performance, or someone in a rural or remote area seeking accessible care, QOL MedTech’s solutions seamlessly integrate into your life. We bring advanced care, effective recovery, and improved quality of life within reach for everyone, everywhere.
+    text:  Whether you’re a patient on the path to recovery, a caregiver supporting an older adult, a physiotherapist ensuring adherence to exercise regimens, an athlete striving for peak performance, or someone in a rural or remote area seeking accessible care, QOL MedTech’s solutions seamlessly integrate into your life. We bring advanced care, effective recovery, and improved quality of life within reach for everyone, everywhere. 
+
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -82,13 +83,10 @@ sections:
   - type: aside.html
     section_id: aside
     title: Work With Us
-    text: 
-    At QOL MedTech, we’re dedicated to transforming healthcare for everyone—whether you’re in a bustling urban center or a remote rural community. Our wearable technology supports healthcare providers, caregivers, physiotherapists, athletes, and individuals by accelerating recovery, enhancing exercise compliance, and optimizing performance.
-    
-    We’re here to partner with you to make healthcare more accessible, effective, and impactful, no matter where you are. Let’s work together to bring advanced, personalized care to your organization, practice, or community. Connect with us today, and let’s start making a difference together.
+    text: We’re here to partner with you to make healthcare more accessible, effective, and impactful, no matter where you are. Let’s work together to bring advanced, personalized care to your organization, practice, or community. Connect with us today, and let’s start making a difference together.
 
     actions:
-      - title: Download Now!
+      - title: Join Us
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
 
