@@ -24,7 +24,7 @@ sections:
     section_id: services
     #background_style: bg-info
     title: Making Healthcare Accessible and Impactful
-    # text: From urban centers to rural communities, QOL MedTech ensures that advanced, personalized care is accessible, effective, and designed with your success in mind. Our technology helps you
+    text: From urban centers to rural communities, QOL MedTech ensures that advanced, personalized care is accessible, effective, and designed with your success in mind. Our technology helps you
     services:
       - title: Shorten Recovery Time
         text: Accelerate healing with precise, data-driven guidance.
