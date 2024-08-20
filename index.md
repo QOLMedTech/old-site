@@ -2,7 +2,7 @@
 layout: home
 header:
   title: Revolutionizing Recovery, Compliance, and Performance with Wearable Technology
-  text1: At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively. 
+  text: At QOL MedTech, we design wearable technology that accelerates recovery, enhances exercise compliance, and optimizes performance—no matter where you are. Our innovative solutions provide real-time monitoring, guided exercise programs, and personalized feedback, empowering patients, caregivers, healthcare providers, and athletes to achieve their health goals effectively. 
 
   action: # action button is optional
     label: Find Out More
@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Track. Guide. Recover. Empower.
-    text1:  Whether you’re a patient on the path to recovery, a caregiver supporting an older adult, a physiotherapist ensuring adherence to exercise regimens, an athlete striving for peak performance, or someone in a rural or remote area seeking accessible care, QOL MedTech’s solutions seamlessly integrate into your life. We bring advanced care, effective recovery, and improved quality of life within reach for everyone, everywhere.
+    text:  Whether you’re a patient on the path to recovery, a caregiver supporting an older adult, a physiotherapist ensuring adherence to exercise regimens, an athlete striving for peak performance, or someone in a rural or remote area seeking accessible care, QOL MedTech’s solutions seamlessly integrate into your life. We bring advanced care, effective recovery, and improved quality of life within reach for everyone, everywhere.
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -27,16 +27,16 @@ sections:
     text1: From urban centers to rural communities, QOL MedTech ensures that advanced, personalized care is accessible, effective, and designed with your success in mind. Our technology helps you
     services:
       - title: Shorten Recovery Time
-        text1: Accelerate healing with precise, data-driven guidance.
+        text: Accelerate healing with precise, data-driven guidance.
         icon: bi-gem text-info
       - title: Enhance Exercise Compliance
-        text1: Ensure patients follow their exercise regimens correctly with real-time cues and reminders.
+        text: Ensure patients follow their exercise regimens correctly with real-time cues and reminders.
         icon: bi-rocket-takeoff
       - title: Optimize Movement and Performance
-        text1: Get detailed insights into your movements to improve form, prevent injury, and maximize results.
+        text: Get detailed insights into your movements to improve form, prevent injury, and maximize results.
         icon: bi-activity
       - title: Cost-Effective Solutions
-        text1: Reduce healthcare costs by minimizing the need for in-person visits and leveraging technology that supports ongoing care and monitoring.
+        text: Reduce healthcare costs by minimizing the need for in-person visits and leveraging technology that supports ongoing care and monitoring.
         icon: bi-heart-fill
       # - title: Other 1
       #   text: Some not-so long text here.
