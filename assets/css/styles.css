@@ -20,7 +20,7 @@
   --bs-yellow: #ffc107;
   --bs-green: #198754;
   --bs-teal: #20c997;
-  --bs-cyan: #0dcaf0;
+  --bs-cyan: #f6f6f6;
   --bs-black: #000;
   --bs-white: #fff;
   --bs-gray: #6c757d;
@@ -37,7 +37,7 @@
   --bs-primary: #008cff;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
-  --bs-info: #0dcaf0;
+  --bs-info: #f6f6f6;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
@@ -2897,8 +2897,8 @@ textarea.form-control-lg {
 
 .btn-info {
   --bs-btn-color: #000;
-  --bs-btn-bg: #0dcaf0;
-  --bs-btn-border-color: #0dcaf0;
+  --bs-btn-bg: #f6f6f6;
+  --bs-btn-border-color: #f6f6f6;
   --bs-btn-hover-color: #000;
   --bs-btn-hover-bg: #31d2f2;
   --bs-btn-hover-border-color: #25cff2;
@@ -2908,8 +2908,8 @@ textarea.form-control-lg {
   --bs-btn-active-border-color: #25cff2;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #000;
-  --bs-btn-disabled-bg: #0dcaf0;
-  --bs-btn-disabled-border-color: #0dcaf0;
+  --bs-btn-disabled-bg: #f6f6f6;
+  --bs-btn-disabled-border-color: #f6f6f6;
 }
 
 .btn-warning {
@@ -3032,19 +3032,19 @@ textarea.form-control-lg {
 }
 
 .btn-outline-info {
-  --bs-btn-color: #0dcaf0;
-  --bs-btn-border-color: #0dcaf0;
+  --bs-btn-color: #f6f6f6;
+  --bs-btn-border-color: #f6f6f6;
   --bs-btn-hover-color: #000;
-  --bs-btn-hover-bg: #0dcaf0;
-  --bs-btn-hover-border-color: #0dcaf0;
+  --bs-btn-hover-bg: #f6f6f6;
+  --bs-btn-hover-border-color: #f6f6f6;
   --bs-btn-focus-shadow-rgb: 13, 202, 240;
   --bs-btn-active-color: #000;
-  --bs-btn-active-bg: #0dcaf0;
-  --bs-btn-active-border-color: #0dcaf0;
+  --bs-btn-active-bg: #f6f6f6;
+  --bs-btn-active-border-color: #f6f6f6;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #0dcaf0;
+  --bs-btn-disabled-color: #f6f6f6;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #0dcaf0;
+  --bs-btn-disabled-border-color: #f6f6f6;
   --bs-gradient: none;
 }
 
@@ -6717,7 +6717,7 @@ textarea.form-control-lg {
 }
 
 .link-info {
-  color: #0dcaf0 !important;
+  color: #f6f6f6 !important;
 }
 .link-info:hover, .link-info:focus {
   color: #3dd5f3 !important;
