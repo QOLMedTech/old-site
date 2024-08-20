@@ -130,17 +130,16 @@ Ready to improve your health, optimize your performance, or support your patient
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Join Our Team
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      At QOL MedTech, we’re more than just a dynamic startup—we’re innovators in healthcare technology. Our culture thrives on creativity, enthusiasm, and a relentless drive to learn and improve. We’re building a team of passionate individuals committed to making a real difference in healthcare access. Our core values are genuineness, intellectual honesty, commitment to completion, and meticulous attention to detail. We empower every team member to bring their unique skills and perspectives to the table.
     actions:
     - title: +1 (202) 555-014
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
       url: mailto:contact@yourwebsite.com
-    - title: Twitter
+    - title: Linkedin
       icon: bi-twitter
       url: '#'
     - title: Facebook
