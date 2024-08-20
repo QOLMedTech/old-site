@@ -24,7 +24,7 @@ sections:
     section_id: services
     #background_style: bg-info
     title: Making Healthcare Accessible and Impactful
-    text: From urban centers to rural communities, QOL MedTech ensures that advanced, personalized care is accessible, effective, and designed with your success in mind. Our technology helps you
+    text1: From urban centers to rural communities, QOL MedTech ensures that advanced, personalized care is accessible, effective, and designed with your success in mind. Our technology helps you
     services:
       - title: Shorten Recovery Time
         text: Accelerate healing with precise, data-driven guidance.
@@ -44,7 +44,7 @@ sections:
       # - title: Other 2
       #   text: Some not-so long text here.
       #   icon: bi-emoji-sunglasses-fill 
-      text:  And because we believe in giving back, 10% of our profits are donated to charity, extending our commitment to improving lives beyond technology.
+      text2:  And because we believe in giving back, 10% of our profits are donated to charity, extending our commitment to improving lives beyond technology.
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
