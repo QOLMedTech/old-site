@@ -92,33 +92,16 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Pachari Detpunyawat and Peter Stapleton
     background_style: bg-info text-white
     members:
-      - title: Pachari Detpunyawat
-        text: Founder & CEO
+      - title: FOUNDERS OF QOL MEDTECH
+        text: "Peter and I noticed something troubling—people struggling with joint pain and mobility issues, whether they were athletes, older adults, or just individuals trying to stay active, had few practical solutions. My father’s knee pain made every step difficult, and Peter’s foot injury threw off his posture, leading to even more problems. We knew there had to be a better way.
+What if you could have a wearable solution that didn’t just track your movement but actually guided you to recover faster, move better, and prevent injuries? What if it was designed for everyone—from athletes to older adults, and even for those in remote areas who can’t easily access healthcare?
+That’s why we created QOL MedTech. We spent countless hours understanding the needs of people just like you—physiotherapists, caregivers, athletes, and those looking to maintain their health. Our wearable technology not only monitors your movements but provides real-time feedback and guidance tailored to your specific needs.
+Ready to improve your health, optimize your performance, or support your patients more effectively? QOL MedTech is here to empower you on that journey."
+
         image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Peter Stapleton
-        text: Founder & Director of Product Development
-        text: difgiiiefnslsdvcklvkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Nathan Wu
-        text: Software Engineer
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Dr. Larry Katz
-        text: Clinical Advisor, External (Ph.D.)
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Dr. Gwyneth de Vries
-        text: Orthopedic Specialist & Medical Advisor, External (MD FRCSC)
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
         url: '#'
 
   - type: timeline.html
