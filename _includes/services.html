@@ -2,7 +2,7 @@
   <div class="container px-4 px-lg-5">
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider border border-primary border-2">
-    <div class="text-black-50 mb-4 ">{{ section.text1 | markdownify }}</div>
+    <div class="text-black-50 mb-4 ">{{ page.text1 | markdownify }}</div>
     <!-- <p class="text-muted mb-0">{{ page.header.text }}</p> -->
     <div class="row gx-4 gx-lg-5 justify-content-center">
       <!-- {#% assign cols = section.size | at_most: 4 %#} -->
@@ -20,7 +20,7 @@
           <div class="mb-2"><i class="{{ service.icon }} bi text-primary" style="font-size: 64px;"></i></div>
           <h3 class="h4 mb-2">{{ service.title }}</h3>
           <div class="text-muted mb-0">
-            {{ service.text1 | markdownify }}
+            {{ service.text | markdownify }}
             {% if service.url %}
               <a href="{{ service.url }}"><i class="bi bi-link"></i></a>
             {% endif %}
@@ -29,6 +29,6 @@
       </div>
       {% endfor %}
     </div>
-    <div class="text-black-50 mb-4 ">{{ section.text2 | markdownify }}</div>
+    <div class="text-black-50 mb-4 ">{{ page.text2 | markdownify }}</div>
   </div>
 </section>
