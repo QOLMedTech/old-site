@@ -4,18 +4,18 @@
     <hr class="divider border border-primary border-2">
     <div class="row justify-content-center">
       {% for member in section.members %}
-      <div class="col-lg-6 col-md-8 mb-4 d-flex align-items-center">
-        <div class="row w-100">
+      <div class="col-lg-8 col-md-10 mb-4">
+        <div class="d-flex align-items-center">
           <!-- Text Column -->
-          <div class="col-8 text-start" style="line-height: 1.8; margin-right: 20px;">
+          <div class="flex-grow-1 text-start" style="line-height: 1.8; margin-right: 20px;">
             <h3 class="h4 mb-3" style="letter-spacing: 0.5px;">{{ member.title }}</h3>
             <p class="text-white-50 mb-0" style="letter-spacing: 0.3px;">
               {{ member.text }}
             </p>
           </div>
           <!-- Image Column -->
-          <div class="col-4 text-end">
-            <img class="img-fluid" src="{{ member.image }}" alt="{{ member.title }}">
+          <div class="flex-shrink-0 text-end">
+            <img class="img-fluid" src="{{ member.image }}" alt="{{ member.title }}" style="max-width: 150px;">
           </div>
         </div>
       </div>
