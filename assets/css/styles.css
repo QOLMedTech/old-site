@@ -35,7 +35,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #008cff;
-  --bs-secondary: #6c757d;
+  --bs-secondary: #008cff;
   --bs-success: #198754;
   --bs-info: #f6f6f6;
   --bs-warning: #ffc107;
@@ -65,7 +65,7 @@
   --bs-body-bg: #fff;
   --bs-border-width: 1px;
   --bs-border-style: solid;
-  --bs-border-color: #dee2e6;
+  --bs-border-color: #008cff;
   --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
   --bs-border-radius: 0.375rem;
   --bs-border-radius-sm: 0.25rem;
