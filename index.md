@@ -136,16 +136,16 @@ Ready to improve your health, optimize your performance, or support your patient
     text: >-
       At QOL MedTech, we’re more than just a dynamic startup—we’re innovators in healthcare technology. Our culture thrives on creativity, enthusiasm, and a relentless drive to learn and improve. We’re building a team of passionate individuals committed to making a real difference in healthcare access. Our core values are genuineness, intellectual honesty, commitment to completion, and meticulous attention to detail. We empower every team member to bring their unique skills and perspectives to the table.
     actions:
-    - title: +1 (202) 555-014
-      icon: bi-telephone-fill
+    # - title: +1 (202) 555-014
+    #   icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
+      url: mailto:info@qolmedtech.com
     - title: Linkedin
       icon: bi-twitter
       url: '#'
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+    # - title: Facebook
+    #   icon: bi-facebook
+    #   url: '#'
 
 ---
