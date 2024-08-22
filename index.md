@@ -142,7 +142,7 @@ Ready to improve your health, optimize your performance, or support your patient
       icon: bi-envelope-fill
       url: mailto:info@qolmedtech.com
     - title: Linkedin
-      icon: bi-twitter
+      icon: bi-linkedin
       url: '#'
     # - title: Facebook
     #   icon: bi-facebook
