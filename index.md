@@ -92,7 +92,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: PACHARI DETPUNYAWAT & PETER STAPLETON
+    title: PACHARI DETPUNYAWAT     &     PETER STAPLETON
     #background_style: bg-info text-white
     members:
       - title: FOUNDERS OF QOL MEDTECH
